@@ -1,2 +1,3 @@
-System.println("Hello World! Vansh");
-System.println("Goodbye World!");
+System.out.println("Hello World! Vansh");
+System.out.println("Goodbye World!");
+
